@@ -35,6 +35,13 @@ This single page application shows a map of coworking cafés in Paris. This app 
 * [Markdown CheatSheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
 * [Utility Functions in KnockoutJS](http://www.knockmeout.net/2011/04/utility-functions-in-knockoutjs.html)
 
+## Inspirational work from other students
+
+[6stringbeliever](https://github.com/6stringbeliever/neighborhood-map)
+
+[danielmoi](https://github.com/danielmoi/danielmoi.github.io/tree/master/P5)
+
+[lastres0rt](https://github.com/lastres0rt/udacity-neighborhood-map-project)
 
 ## Acknowledgements
 This project has made me feel like I was walking with too big shoes. I`ve been struggling with it for quite a while and would not have been able to come this far without help.
