@@ -22,7 +22,7 @@ This single page application shows a map of coworking cafés in Paris. This app 
 ## How to View This App
 1. Test the app at: https://otsop110.github.io/neighbourhood-map/ or
 2. Download the source code from my repo at GitHub: https://github.com/otsop110/neighbourhood-map.git and open /index.html in your browser.
-3. Remember tu update with your own Foursquare Client ID and password information to be able to fetch and view the data.
+3. Remember to update with your own Foursquare Client ID and password information to be able to fetch and view the data.
 
 ## Helpful Resources
 * [Array.prototype.indexOf()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/indexOf)
